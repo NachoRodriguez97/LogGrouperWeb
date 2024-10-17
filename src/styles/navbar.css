@@ -1,0 +1,48 @@
+.card-body.col-md-4 {
+    display: flex;
+    justify-content: center;
+}
+
+.printerSection {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.userSection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.iconoImpresora > img {
+    height: 75px;
+}
+
+.salir > button, .LogoUsuario > button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: transparent;
+    border: none;
+}
+
+#logoImg {
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 10px;
+}
+
+.card-body {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    height: 100px;
+}
+
+.infoImpresora {
+    margin-left: 15px;
+}
+
+span.d-flex.align-items-center.navbar-brand {
+    margin-right: 0px;
+}

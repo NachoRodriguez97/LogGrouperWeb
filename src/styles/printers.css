@@ -1,0 +1,14 @@
+button#setPrinter {
+    background: #D41F24;
+    color: white;
+    font-weight: 500;
+    border-color: #D41F24;
+    width: 75%;
+    padding: 10px;
+    /*border-radius: 20px;*/
+} 
+
+.selectPrinters{
+    flex-direction: column;
+    align-items: center;
+}
